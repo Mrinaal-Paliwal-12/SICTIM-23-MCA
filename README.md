@@ -1,10 +1,18 @@
-# SICTIM-23-MCA
+# `SICTIM-23-MCA`  
 
-Important links:
-http://sgmc.somaiya.edu/
-https://csdc.somaiya.edu/index.html
-https://amdisa.org/supported-programme/SIMSR-SICTIM-2022/index.html
+### Guiding Faculties  
+- _Prof. Sudarshan Sirsat_  
+- _Dr. Sangeetha Rajesh_  
 
-#Guiding Faculties:
-Prof. Sudarshan Sirsat
-Dr. Sangeetha Rajesh
+### Team Members  
+- _Mrinaal Paliwal_  
+- _Roshan Patil_  
+- _Saayli Yadav_  
+- _Shanmukh Patil_  
+- _Shruti Rane_  
+
+### Important Links  
+
+> http://sgmc.somaiya.edu/  
+> https://csdc.somaiya.edu/index.html  
+> https://amdisa.org/supported-programme/SIMSR-SICTIM-2022/index.html  
