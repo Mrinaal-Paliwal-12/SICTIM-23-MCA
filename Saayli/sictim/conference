@@ -1,0 +1,740 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28288822-9"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-28288822-9');
+        </script>
+
+        <!-- Global site tag (gtag.js) - Google Ads: 398116238 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-398116238"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'AW-398116238');
+        </script>
+
+
+                <meta http-equiv="Content-Type" content="application/x-www-form-urlencoded; charset=UTF-8" />
+
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
+        
+        <title>About the Conference - CSDC: K J Somaiya Institute of Management</title>
+        <meta name="description" content="Centre for Sustainable Development's International Conference on Energy Transition for Sustainable Development by K J Somaiya Institute of Management is one of India's most renowned sustainability conferences." />
+                    
+                    
+        <link rel="icon shortcut" href="assets/university/img/svv-emblem.svg" type="image/x-icon" sizes="16x16"/>
+        <link  rel="preload stylesheet" as="style" href="assets/university/css/university.css" />
+        <link  rel="preload stylesheet" as="style" href="assets/default_asset/uni-css/hostel.css" />
+        <script src="assets/default_asset/js/jquery-3.4.1.min.js"></script>
+
+        <script>
+            var base_url = "index.html";
+        </script>
+        <!-- Event snippet for Website lead conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-398116238/U0RjCJjbhv0BEI6L670B',
+          'event_callback': callback
+      });
+      return false;
+    }
+    </script>
+    
+       
+    </head>
+
+    <body>
+            <!--<noscript><iframe src="about:blank" data-iframe-src="https://www.googletagmanager.com/ns.html?id=GTM-KPZMCXJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+
+                  
+               
+                
+      
+        <header>
+            <div class="container">
+                <div class="wm-topstrip desks">
+                    <div class="row">
+                        <div class="col-md-3 col-xs-6 br-largelogo">
+                            <h1>
+                                <a href="index.html">
+                                    <img src="assets/university/img/homepage/simsrnew.svg"  alt="SIMSR Logo" class="desktop"/>
+                                </a>
+                            </h1>
+                        </div>
+                        <div class="col-md-9 col-xs-6 ">
+                            <div class="wm-right-section">
+                                <ul class="wm-social-icon">
+                                    <li><strong>MAR 28<sup style="font-size: 6pt;">TH</sup> - 30<sup style="font-size: 6pt;">TH</sup> 2022</strong></li>
+                                    <li class="top_menuvline"><strong>VIRTUAL MODE</strong></li>
+                                    <li class="trust"><img class="lazyloadimg fade" src="assets/arigel_general/img/homepage/Trust.svg"  data-lazy="https://www.somaiya.edu/assets/arigel_general/img/homepage/Trust.svg" alt=""/></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <nav class="navbar jumbtron-bg-new" role="navigation" id="home-all-new">
+                    <div class="mobs mobheaderbody">
+                        <div class="moblogowrapper">
+                            <a href="index.html">
+                                <img src="assets/university/img/homepage/simsrnew.svg"    alt="" class="mobile large-moblogo"/>
+                            </a>
+                        </div>
+                        <div class="brandmenu-btn">
+                            <div class="menu-btn_burger"></div>
+                        </div>
+                    </div>
+                    <ul class="nav navbar-nav brandmenu" id="collapsingNavBar">
+                       
+                        <li class="home menu-leaf" id="Lhome-menu">
+                            <a href="index.html">
+                                <img src="assets/default_asset/img/social/home-black.svg" alt="" class="homeimg"/>
+                                <img src="assets/default_asset/img/social/home-red.svg" alt="" class="homehvrimg"/>
+                            </a>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="about.html">About</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="about.html#svu">Somaiya Vidyavihar University</a>
+                                </li>
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="about.html#kjsim">K J Somaiya Institute of Management</a>
+                                </li>
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="about.html#csd">Centre for Sustainable Development</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="csdc.html">CSD Conference</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="csdc.html#about">About Conference</a>
+                                </li>
+                                <!--<li>
+                                    <a class="anchor hvr-underline-from-left" href="csdc.html#publication">Publication Opportunities</a>
+                                </li>
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="csdc.html#partners">Partners</a>
+                                </li>-->
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="csdc.html#team">Organizing Team</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!--<li class="menu-leaf">
+                            <a class="menu-item" href="#conference-schedule">Schedule - 28th &amp; 30th Mar</a>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="#submission-guidelines">Abstract Guidelines</a>
+                        </li>-->
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="workshops.html">Workshops</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="workshop-systems-thinking.html">Workshop on Systems Thinking</a>
+                                </li>
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="workshop-measuring-development.html">Workshop on Measuring Development</a>
+                                </li>
+                                <li>
+                                    <a class="anchor hvr-underline-from-left" href="workshop-sustainability-assessment.html">Workshop on Sustainability Assessment</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="speakers.html">Speakers</a>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="schedule.html">Schedule</a>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="registration.html">Registration</a>
+                        </li>
+                        <li class="menu-leaf">
+                            <a class="menu-item" href="abstract.html">Submit Abstract</a>
+                        </li>
+                        <li class="menu-leaf startups-menus">
+                            <a class="menu-item" href="contact.html">Contact Us</a>
+                        </li>
+                        
+                        <!--<li class="menu-leaf mobs">
+                            <a class="menu-item" href="javascript:void(0);">More</a>
+                            <ul class="dropdown-menu ">
+                                <li><a class="anchor hvr-underline-from-left" type="text/html" href="https://myaccount.somaiya.edu/" target="_blank" role="link" aria-label="Student open in new winow">Student</a></li>
+                                <li><a class="anchor hvr-underline-from-left" type="text/html" href="https://myaccount.somaiya.edu/" target="_blank" role="link" aria-label="Faculty open in new window">Faculty</a></li>
+                                <li><a class="anchor hvr-underline-from-left" type="text/html" href="https://myaccount.somaiya.edu/" target="_blank" role="link" aria-label="Staff open in new winow">Staff</a></li>
+                                <li class="top_menuvline"><a class="anchor hvr-underline-from-left" type="text/html" href="https://alumni.somaiya.edu/" role="link"  target="_blank">Alumni</a></li>
+                                <li><a class="anchor hvr-underline-from-left" href="https://grievances.somaiya.edu/login/" target="_blank" role="link" aria-label="Grievance open in new window">Grievance</a></li>
+                                <li><a class="anchor hvr-underline-from-left" href="en/career/index.html">Career</a></li>
+                                <li><a class="anchor hvr-underline-from-left" href="en/emergency/index.html" role="link" aria-label="emergency open in new winow">Emergency</a></li>
+                                <li class="top_menuvline"><a class="anchor hvr-underline-from-left" href="https://www.somaiya.edu.in/en/faq/" target="_blank" role="link" aria-label="Faq open in new winow" target="_blank">FAQS</a></li>
+                            </ul>
+                        </li>-->
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+<div id="cu-overlay" class=""></div> 
+
+<script type="text/javascript">
+        document.getElementById("home-all-new").classList.remove('jumbtron-bg-new');
+        document.getElementById("home-all-new").classList.add('header-all-new');
+        </script>
+
+<style >
+   .lazyloadimg {
+    opacity: inherit;
+    }
+</style>    <!-- Home Slider -->
+
+
+<!-- Scripts -->
+
+<link href="https://www.somaiya.edu/assets/arigel_general/css/select2.min.css" rel="stylesheet" />
+<script src="https://www.somaiya.edu/assets/arigel_general/js/select2.min.js"></script>
+
+<script type="text/javascript">
+  $("#institute_check").on("change", function()
+  {
+      var areaID = $(this).val();
+      if(areaID)
+      {
+          $.ajax({
+              type:'POST',
+              url:"https://www.somaiya.edu/arigel_general/institutedepend",
+              data:'institute_id='+areaID,
+              success:function(html){
+                  $('.programmes').html(html);
+              }
+          }); 
+      }else{
+          $('.programmes').html('<option value="">Select Institute First</option>');
+      }
+  })
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+      $('.js-course-multiple').select2();
+      $('.user_enquiry_form_submit').click(function(event){ 
+          event.preventDefault(); //your ajax gets here: 
+          var formData = $('#user_enquiry_form').serializeArray();                    
+          jQuery.ajax({
+              type:"post",
+              dataType:"json",
+              url: 'https://www.somaiya.edu/arigel_general/user_enquiry_form_university/',
+              data: formData,
+              success: function(response, textStatus, jqXHR)
+              {
+                  var fetchResponse = JSON.parse(JSON.stringify(response));
+                  if(fetchResponse.status == "failure")
+                  {
+                      //console.log("error error ");
+                      $.each(fetchResponse.error, function (i, v)
+                      {
+                          $('.'+i+'_error').html(v);
+                      });
+                  }
+                  else
+                  {
+                      $(".error").html('');
+                      //console.log("sussess");
+                      // $(".success_msg").html("Thank you, we will get back to you. ");
+                      // $('#formSuccess').modal('show');
+                      // window.location.href = "https://www.somaiya.edu/arigel_general/thankyouenquire/";
+                      window.location.href = "https://www.somaiya.edu/en/thankyou/";
+                      // redirect(base_url('arigel_general/thankyouenquire'));
+                      $('#largeModal').modal('hide');
+                      $('#user_enquiry_form').trigger("reset");
+                      $('.js-course-multiple').val('').trigger('change');
+                      $('.js-example-basic-single').val('').trigger('change');
+                  }
+              }
+          });
+      });
+  });
+
+  $('#largeModal').on('hidden.bs.modal', function () {
+      $(this).find('form').trigger('reset');
+  })
+</script>
+
+
+
+<link type="text/css" rel="stylesheet" href="https://www.somaiya.edu/assets/default_asset/uni-css/contact-emergency.css" media="screen">
+
+
+<section class="aboutpanel d-none">
+  <div id="container">
+  </div>
+</section>
+
+<div role="main">
+    <section class="top_section backpatch_right">
+    <div class="container chancellorsmsg-main">
+    <div class="row hide660">
+    <div class="col-md-12">
+    <h2 class="main_title text-center cpl15" id="about">About CSD Conference</h2>
+    </div>
+    </div>
+    
+    <div class="row inner_page_content">
+    <div class="col-md-6 imgs order-last">
+    <div class="img h350"><img alt="" class="hide768" src="assets/university/img/conference/svv.jpg" /><img alt="" class="show768" src="assets/university/img/conference/svv.jpg" /></div>
+    </div>
+    
+    <div class="col-md-6 new_edu social_responsibility  contents order-first">
+    <div class="content">
+    <div class="row show768">
+    <div class="col-md-12">
+    <h2 class="main_title text-center">About CSD Conference</h2>
+    </div>
+    </div>
+    
+    <p class="std-subheading" style="    font-size: 24px;
+color: #58595b;
+line-height: 34px;
+font-weight: 400;
+margin-bottom: 15px;">March 28-30, 2022, Virtual Mode</p>
+    
+    <p style="text-align: justify;">As we aspire to meet the <strong>sustainable development goals (SDGs) on the energy front</strong>, while ensuring access to affordable, reliable, sustainable and modern energy for all <strong>(SDG No. 7)</strong>, we have been witnessing a continuous transitioning to low carbon and high efficiency energy pathways. This transition is not only reflected in terms of technology or fuel-mix, but also in changes in behavior of households and nation, states and in innovations in energy management and policy.</p><br>
+
+    <p style="text-align: justify;">This conference aims to bring together energy scholars in India and elsewhere to showcase their work on different energy transitions. We call for papers that can contextualize the energy transition in the broader canvas of development and management studies. The papers are expected to have a balance between the rigour of analysis and relevance to a broader audience.</p>
+    
+    
+    </div>
+    </div>
+    </div>
+    </div>
+</section>
+</div>
+</section>
+<section class="main-content">
+<div class="container chancellorsmsg-main">
+    <div class="row">
+    <div class="col-md-12">
+<section class="sm-reality new_edu">
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="sub-title28">Themes/Areas:</h4>
+
+            <div class="community-supportmain">
+                <ul class="comm-list">
+                    <li><strong>Technological Advancements &amp; Alternatives:</strong>: E-Mobility; Storage; Distributed Energy Systems; Grassroots Energy Technologies; Smart Grids</li>
+                    <li><strong>Digital Transformation for Energy Transition</strong>: AI &amp; ML; IT Infrastructure; Green IT; Sustainable ICTs; Blockchain</li>
+                    <li><strong>Changing Energy Mix</strong>: Renewable &amp; Non-Renewable Trade-offs; New Energy Sources, Renewable Augmentation in Power Plants</li>
+                    <li><strong>New and Lasting Energy Externalities</strong>: Energy-Climate Nexus; Displacement; Pollution; Carbon Sequestration</li>
+                    <li><strong>Persisting Socio-Economic issues</strong>: Energy Access; Energy Poverty; Pricings; Demand-side Management</li>
+                    <li><strong>Behavioural Barriers and Boosters</strong>: Adoption (new technology and practices); Shared Mobility; Energy Sufficiency; Conscious Consumerism; Design Thinking</li>
+                    <li><strong>Innovations in Energy-Measurement</strong>: Energy Transition Index; Energy Security Measures; Energy Sustainability Assessments</li>
+                    <li><strong>Managerial Challenges</strong>: Energy Finance; Sustainable HRM; Sustainable Operations; ESG &amp; Reporting Norms; Triple Bottom Line; Managing Energy Innovations</li>
+                    <li><strong>Energy Cooperation &amp; Trade</strong>: Energy Cooperatives; Energy Trade; National, Regional, and Global Grid</li>
+                    <li><strong>Policy Analysis &amp; Interventions</strong>: Degrowth; Subsidies; Energy Independence and Interdependence; Systems Thinking</li>
+                </ul>
+        </div>
+    </div>
+    </div>
+</section>
+<section class="sm-reality new_edu">
+    <div class="row">
+    <div class="col-md-12">
+        <h4 class="sub-title28">Best Paper Award:</h4>
+
+        <p style="text-align: justify;">Best Paper Award will be evaluated based on submitted abstract and paper presentation.</p>
+    </div>
+</div>
+</section>
+<section class="sm-reality new_edu">
+    <div class="row">
+    <div class="col-md-12">
+        <h4 class="sub-title28">Abstract Submission:</h4>
+
+        <p style="text-align: justify;">To present a paper at the conference submit an abstract of 300-500 words. Submission should contain the author/s name, affiliation, keywords.</p>
+        <p style="text-align: justify;">Selected papers from the papers submitted to the conference will be considered for an edited volume with a reputed publisher. To be considered for this publication, authors are requested to submit full papers (6000-8000 words) before the deadline.</p>
+        <div class="btnwrapper">                          
+            <div class="fullwidth"><a href="abstract.html" class="grey-btn hvr-right">Submit Abstract</a></div>
+        </div>
+    </div>
+</div>
+</section>
+
+<div class="our_vision">
+    <section class="inner_page_content ov new_edu">
+        <h4 class="sub-title28"id="team">Organizing Committee</h4>
+        <div class="row grid">
+        <!--div class="col-md-4 order-last right"><img alt="" src="/assets/university/img/conference/svv.jpg" /></div>-->
+        
+        <div class="col-md-8 order-first">
+            <p><strong>Dr. Lakshmikanth Hari</strong>, K J Somaiya Institute of Management, Mumbai (Convenor)</p>
+            <p><strong>Dr. Hippu Salk Kristle Nathan</strong>, Institute of Rural Management, Anand</p>
+            <p><strong>Dr. Binilkumar AS</strong>, National Institute of Industrial Engineering, Mumbai</p>
+            <p><strong>Dr. Shrabani Bhattacharjee</strong>, K J Somaiya Institute of Management, Mumbai</p>
+            <p><strong>Mr. Sudarshan Sirsat</strong>, K J Somaiya Institute of Management, Mumbai</p>
+            <p><strong>Mr. Arvind Pandi Dorai</strong>, K J Somaiya Institute of Management, Mumbai</p>
+        </div>
+        </div>
+        </section>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+    <script>
+        function showMore() {
+            var dots = document.getElementById("dots");
+            var moreText = document.getElementById("more");
+            var btnText = document.getElementById("Uni-showmorebtn");
+
+            if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "Show more";
+                moreText.style.display = "none";
+            } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "Show less";
+                moreText.style.display = "inline";
+            }
+        }
+    </script><a id="backtopbtn" class="backtopbtn">
+    <script>
+
+        // $(document).on('click', '.college_links .navbar-sticky.sticky a[href^="#"]', function(e) {
+        //     var id = $(this).attr('href');  
+        //     var $id = $(id);
+        //     if ($id.length === 0) {
+        //         return;
+        //     }
+        //     e.preventDefault();
+        //   $('html, body').animate(
+        //     {
+        //       scrollTop: $($(this).attr('href')).offset().top + -240,
+        //     },
+        //     1200,
+        //     'linear'
+        //   )
+        // });
+        
+        
+        
+        // $(document).on('click', '.college_links .navbar-sticky a[href^="#"]', function(e) {
+        //     var id = $(this).attr('href');  
+        //     var $id = $(id);
+        //     if ($id.length === 0) {
+        //         return;
+        //     }
+        //     e.preventDefault();
+        //   $('html, body').animate(
+        //     {
+        //       scrollTop: $($(this).attr('href')).offset().top + -450,
+        //     },
+        //     1200,
+        //     'linear'
+        //   )
+        // });
+        
+        // $(function() {
+        //        // your current click function
+        //        $('.menu-leaf .menu-item').on('click', function(e) {
+        //            e.preventDefault();
+        //            $('html, body').animate({
+        //                scrollTop: $($(this).attr('href')).offset().top - 0 + 'px'
+        //            }, 1000, 'swing');
+        //        });
+        //        // *only* if we have anchor on the url
+        //        if (window.location.hash) {
+        //            // smooth scroll to the anchor id
+        //            $('html, body').animate({
+        //                scrollTop: $(window.location.hash).offset().top - 0 + 'px'
+        //            }, 1000, 'swing');
+        //        }
+        //    });
+        
+             $(function() {
+                // your current click function
+                $('.sticky .menu-leaf .menu-item').on('click', function(e) {
+                    e.preventDefault();
+                    $('html, body').animate({
+                        scrollTop: $($(this).attr('href')).offset().top - 60 + 'px'
+                    }, 1000, 'swing');
+                });
+                // *only* if we have anchor on the url
+                if (window.location.hash) {
+                    // smooth scroll to the anchor id
+                    $('html, body').animate({
+                        scrollTop: $(window.location.hash).offset().top - 60 + 'px'
+                    }, 1000, 'swing');
+                }
+            });
+        document.addEventListener('DOMContentLoaded', function() {
+        window.onscroll = function() {myFunction()};
+        
+        var navbar = document.getElementById("navbar-sticky");
+        var sticky = navbar.offsetTop;
+        
+        function myFunction() {
+          if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+          } else {
+            navbar.classList.remove("sticky");
+          }
+        }
+        });
+        
+        var selector = '.navbar-sticky li';
+        
+        $(selector).on('click', function(){
+            $(selector).removeClass('actives');
+            $(this).addClass('actives');
+        });
+        </script>
+        <script src="assets/default_asset/js/jquery.validate.min.js"></script>
+
+        <script type="text/javascript">
+        // Wait for the DOM to be ready
+        $(function() {
+          // Initialize form validation on the registration form.
+          // It has the name attribute "registration"
+          $("form[name='registration']").validate({
+            // Specify validation rules
+            rules: {
+              // The key name on the left side is the name attribute
+              // of an input field. Validation rules are defined
+              // on the right side
+              textName: "required",
+              textComment: "required",
+              // youare: "required",
+              textEmail: {
+                required: true,
+                // Specify that email should be validated
+                // by the built-in "email" rule
+                email: true
+              },
+              textNumber: {
+                required: true,
+                minlength: 10,
+                maxlength: 10
+              }
+            },
+            // Specify validation error messages
+            messages: {
+              textName: "Please enter your name",
+              textComment: "Please enter your subject",
+              selectQuery: "Please select an query",
+              // youare: "Please select you are",
+              textNumber: {
+                required: "Please provide a mobile no.",
+                minlength: "Your mobile must be at least 10 digit long",
+                minlength: "Your mobile must be at least 10 digit long"
+              },
+              textEmail: "Please enter a valid email address"
+            },
+            // Make sure the form is submitted to the destination defined
+            // in the "action" attribute of the form when valid
+            submitHandler: function(form) {
+              form.submit();
+            }
+          });
+        });
+        </script>
+        
+    </a>
+<footer id="brandfooter" class="d-flex-column text-center brandfooter">
+        <div class="rightftpatch">
+            <div class="container text-left " id="footercollapse">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="ft-logo text-center d-md-none">
+                            <img src="assets/university/img/simsrnew.svg" alt="" class="mobftlogo">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    <div class="col  mx-auto shfooter">
+                        <h5 class="ft-heading d-none d-md-block">Address</h5>
+                        <div class="d-md-none title" data-target="#studenthelp" data-toggle="collapse"
+                            data-parent="footercollapse">
+                            <div class="mt-3 ft-heading">Address
+                                <div class="float-right navbar-toggler">
+                                    <i class="fa fa-angle-down"></i>
+                                    <i class="fa fa-angle-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled collapse" id="studenthelp">
+                    
+                            <li><a href="https://maps.google.com/maps?ll=19.072691,72.897866&z=17&t=h&hl=en-US&gl=IN&mapclient=embed&daddr=Somaiya%20Vidyavihar%20Vidyanagar%2C%20Somaiya%2C%20Vidyavihar%20Mumbai%2C%20Maharashtra%20400077@19.0726913,72.8978655" target="_blank" role="link" aria-label="Map open a new window">Centre for Sustainable Development<br>
+                                K J Somaiya Institute of Management<br>
+                                Somaiya Vidyavihar University<br>
+                                Vidyavihar (E), Mumbai–400077, India</a></li>
+                      
+
+                        </ul>
+                    </div>
+
+                    <hr class="clearfix w-100 d-md-none mb-0" />
+
+                    <div class="col  mx-auto shfooter">
+                        <h5 class="ft-heading d-none d-md-block">Telephone</h5>
+                        <div class="d-md-none title" data-target="#quicklinks" data-toggle="collapse"
+                            data-parent="footercollapse">
+                            <div class="mt-3 ft-heading">Telephone
+                                <div class="float-right navbar-toggler">
+                                    <i class="fa fa-angle-down"></i>
+                                    <i class="fa fa-angle-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled collapse" id="quicklinks">
+                       
+                            <li><a href="tel:+912267283000" target="_blank" role="link" aria-label="Call open in new window">+91 22 6728 3000</a></li>
+                            <li><a href="tel:+912267283050" target="_blank" role="link" aria-label="Call opens a new window">+91 22 6728 3050</a></li>
+                       
+                        </ul>
+                    </div>
+
+                    <hr class="clearfix w-100 d-md-none mb-0">
+
+                    <div class="col  mx-auto shfooter">
+                        <h5 class="ft-heading d-none d-md-block">Email</h5>
+                        <div class="d-md-none title" data-target="#getintouch" data-toggle="collapse"
+                            data-parent="footercollapse">
+                            <div class="mt-3 ft-heading">Email
+                                <div class="float-right navbar-toggler">
+                                    <i class="fa fa-angle-down"></i>
+                                    <i class="fa fa-angle-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled collapse" id="getintouch">
+                       
+                            <li><a href="mailto:csdc@somaiya.edu">csdc@somaiya.edu</a></li>
+                      
+                        </ul>
+                    </div>
+
+                    <hr class="clearfix w-100 d-md-none mb-0">
+
+                    <div class="col  mx-auto shfooter">
+                        <h5 class="ft-heading d-none d-md-block">Website</h5>
+                        <div class="d-md-none title" data-target="#explore" data-toggle="collapse"
+                            data-parent="footercollapse">
+                            <div class="mt-3 ft-heading">Website
+                                <div class="float-right navbar-toggler">
+                                    <i class="fa fa-angle-down"></i>
+                                    <i class="fa fa-angle-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled collapse" id="explore">
+                      
+                            <li><a href="https://csdc.somaiya.edu/" target="_blank"  rel="nofollow" role="link" aria-label="Website opens a new window">csdc.somaiya.edu</a></li>
+                       
+                        </ul>
+                    </div>
+
+                    <hr class="clearfix w-100 d-md-none mb-0">
+
+                    <div class="col  mx-auto shfooter">
+                        <h5 class="ft-heading d-none">Apply</h5>
+                        <div class="d-md-none title" data-target="#morelinks" data-toggle="collapse"
+                            data-parent="footercollapse">
+                            <div class="mt-3 ft-heading">Apply
+                                <div class="float-right navbar-toggler">
+                                    <i class="fa fa-angle-down"></i>
+                                    <i class="fa fa-angle-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled collapse" id="morelinks">
+
+                            <li>
+                                <a href="contact.html" role="link"
+                                    aria-label="Admission open a new window" class="outline-grey-btn hvr-right">
+                                    Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="container">
+                <div class="ft-logo text-center hidden-mob">
+                    <img src="assets/university/img/simsrnew.svg" alt="">
+                </div>
+
+               <!--  <ul class="ftinline-grid hidden-mob">
+                  
+                    <li><a href="https://www.somaiya.edu.in/en/history/" target="_blank">History</a></li>
+                   
+                    <li><a href="https://research.somaiya.edu/" role="link" target="_blank"
+                            aria-label="Research open a new window">Research</a></li>
+                </ul> 
+
+                <ul class="unisocial_link d-xs-block" role="complementary">
+                            <li>
+                                <a rel="noreferrer" href="https://www.facebook.com/pages/Somaiya-Vidyavihar/122977847737512/" target="_blank" role="link" aria-label="facebook open in new window"><span class="fwarp ufacebook"></span></a>
+                            </li>
+                            <li>
+                                <a rel="noreferrer" href="https://twitter.com/Somaiya_SVU/" target="_blank" role="link" aria-label="Twitter open in new window"><span class="fwarp utwitter"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a rel="noreferrer" href="https://instagram.com/somaiyatrust/" target="_blank" role="link" aria-label="Instagram open in new window"><span class="fwarp uinstagram"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a rel="noreferrer" href="http://www.youtube.com/somaiyavidyavihar/" target="_blank" role="link" aria-label="youtube open in new window"><span class="fwarp uyoutube"></span>
+                                </a>
+                            </li>
+                </ul> -->
+
+
+                <div class="copyrightsec hidden-mob">
+                    <ul class="">
+                        <li><a href="https://www.somaiya.edu/en/terms-and-conditions/" target="_blank" class="padd10-lt link-lt">Terms &amp; Conditions</a></li>
+                        <li><a href="https://www.somaiya.edu/en/privacy-policy/" target="_blank" class="link-lt">Privacy Policy</a></li>
+                        <li><a href="https://www.somaiya.edu/en/disclaimer/" target="_blank" class="link-lt">Disclaimer</a></li>
+                    </ul>
+                    <span class="copyright">&copy; 2022 K J Somaiya Institute of Management</span>
+                </div>
+            </div>
+
+        </div>
+        <div class="brightredbg"></div>
+        <div class="darkredbg"></div>
+    </footer>
+
+
+<script  src="assets/default_asset/js/bootstrap4.min.js" defer></script>
+<script  src="assets/default_asset/js/wow.min.js"  defer></script>
+<script  src="assets/default_asset/js/slick.min.js" defer ></script>
+<script  src="assets/university/js/main.js" defer></script>
+</body>
+
+</html>
