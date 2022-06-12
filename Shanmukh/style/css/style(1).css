@@ -1,0 +1,55 @@
+#header .first-nav li {
+    vertical-align: middle;
+}
+
+#header .first-nav .page-nav ul {
+    margin-left: 0;
+}
+
+#header .first-nav .page-nav ul li a {
+    line-height: 1.25;
+    text-align: left;
+}
+
+#header .first-nav .language-nav ul li a,
+#header .first-nav .language-nav ul li span {
+    padding: 7px 0 6px;
+}
+
+#header .first-nav .util-nav ul {
+    line-height: 2.5;
+}
+
+.post-content .post-body .committees-section .section-body dl dt {
+    width: 9em;
+}
+
+.post-content .post-body .committees-section .section-body dl dd {
+    padding-left: 10em;
+}
+
+@media screen and (max-width: 768px) {
+    .post-content .post-body .committees-section .section-body dl dt {
+        width: auto;
+    }
+    .post-content .post-body .committees-section .section-body dl dd {
+        padding-left: 0;
+    }
+}
+
+.post-content .post-body .table-member thead th {
+    letter-spacing: 0;
+}
+
+#footer .footer-sitemap .inner>div.first-nav>ul>li {
+    padding-right: 2.6em;
+    float: left;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    #footer .footer-sitemap .inner>div.first-nav>ul>li {
+        padding-right: 0;
+        float: none;
+    }
+}
