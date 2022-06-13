@@ -16,3 +16,7 @@
 > http://sgmc.somaiya.edu/  
 > https://csdc.somaiya.edu/index.html  
 > https://amdisa.org/supported-programme/SIMSR-SICTIM-2022/index.html  
+
+### Website is now live!  
+
+> https://reliable-tapioca-53d62a.netlify.app/  
