@@ -20,3 +20,4 @@
 ### Website is now live!  
 
 > https://sictim-23.netlify.app/ 
+> Site is not in use anymore.
